@@ -1,0 +1,5 @@
+llama-2-chat-7b/
+__pycache__/
+.ipynb_checkpoints/
+meta-llama/
+Llama-2-7b-hf/
